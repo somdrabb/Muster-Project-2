@@ -1,2 +1,3 @@
 Hi, there is 2nd Muster project 
 There is nothing
+Inventory is solved
